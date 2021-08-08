@@ -1,6 +1,6 @@
 ## How to setup the frontend for weather app
 
-In the frontend project root directory (/frontend), run:
+In the frontend project root directory (/frontend-ui), run:
 
 ### `npm install`
 ### `npm run start`
