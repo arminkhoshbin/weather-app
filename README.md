@@ -12,7 +12,7 @@ API key from https://www.weatherapi.com/
 This should start the server on port 8000 and the API should be accessible
 via [http://localhost:8000/api/weather-forecast](http://localhost:8000/api/weather-forecast)
 
-Refer to the README file in `/frontend-ui` directory for instructions on
+Refer to the README file in `/frontend` directory for instructions on
 how to setup the frontend.
 
 ## Running the console command
