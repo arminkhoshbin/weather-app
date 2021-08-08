@@ -69,6 +69,8 @@ class generateReport extends Command
                 $this->table($headers, $data);
                 $this->newLine();
             } catch (HttpException $exception) {
+                $this->info(sprintf('No location was found for %s', $city));
+                $this->newLine();
                 continue;
             }
         }
